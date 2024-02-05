@@ -35,6 +35,10 @@ An Averager class is employed to track and average both training and validation 
 - Mean Average Precision (mAP): Achieved an average mAP score of 0.8130, surpassing the threshold of 0.8 for robust object detection.
 - Intersection over Union (IOU): Consistently exceeded 0.6, indicating precise localization of detected faces.
 
+## Saved Model
+A pre-trained model is included in this repository. You can find the saved model file as `model18.pth` in the directory.
+You can use this saved model to make predictions on new images or integrate it into your applications.
+
 ## Example Output
 In the GUI, the system will showcase images with different mask scenarios, including masked, unmasked, and incorrectly worn masks.
 ![check](https://github.com/RafiyaZafar/Face-Mask-Detection/assets/90679542/a3726536-cc75-455b-8e37-b36e4b266403)
