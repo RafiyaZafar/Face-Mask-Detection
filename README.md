@@ -37,11 +37,11 @@ An Averager class is employed to track and average both training and validation 
 
 ## Example Output
 In the GUI, the system will showcase images with different mask scenarios, including masked, unmasked, and incorrectly worn masks.
-
-
+![check](https://github.com/RafiyaZafar/Face-Mask-Detection/assets/90679542/a3726536-cc75-455b-8e37-b36e4b266403)
 
 ## Data Flow Diagram
 The data flow diagram illustrates the process of the Face Mask Detection system.
+![Data Flow Diagram](https://github.com/RafiyaZafar/Face-Mask-Detection/assets/90679542/896161ad-bcdc-49e2-b7d9-2c4c01bf1434)
 
 
 
